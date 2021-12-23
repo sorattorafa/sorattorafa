@@ -2,6 +2,9 @@
 
 I'm taking my under degree in Computer Science at Federal University of Technology - Paraná (UTFPR).
 
+#### Youtube Tutorial Videos
+- https://www.youtube.com/channel/UCP5-qagT7ta2RmueSDUacqQ/playlists
+
 ![Rafael R. Soratto Github Stats](https://github-readme-stats.vercel.app/api?username=sorattorafa&show_icons=true&theme=vue-dark)
 
 ### 🌱 I’m currently learning 
