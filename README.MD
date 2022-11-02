@@ -27,4 +27,4 @@ I'm taking my under degree in Computer Science at Federal University of Technolo
 ![mysql](https://img.shields.io/badge/MySQL-%232F5E8D.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![java](https://img.shields.io/badge/Java%20-%23F37626.svg?&style=for-the-badge&logo=java&logoColor=white)
-![swift](https://img.shields.io/badge/Swift%20-%314354C.svg&style=for-the-badge&logo=swift&logoColor=red)
+![swift](https://img.shields.io/badge/Swift%20-%8C7B6B?&style=for-the-badge&logo=swift&logoColor=blue)
